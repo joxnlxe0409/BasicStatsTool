@@ -25,6 +25,5 @@ stats.c
 
 Development Environment: 
 
-
 Compatible with Windows, Linux, and MacOS -> GCC Compiler
 Written according to C99 Standard
