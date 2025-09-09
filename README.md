@@ -1,4 +1,4 @@
-Simple Stats Analyzer
+Simple Stats Analyzer: <break>
 A statistical analysis program written in C which allows users to input numeric data and calculates basic statistics such as average, maximum, minimum, median, and counts how many values are above average.
 
 - Input up to 100 data points
@@ -8,11 +8,11 @@ A statistical analysis program written in C which allows users to input numeric 
 - Sort data in ascending order and display it
 - Calculate median value
 
-File Structure:
+File Structure: <break>
 main.c 
 stats.h
 stats.c
 
-Development Environment
+Development Environment: <break>
 Compatible with Windows, Linux, and MacOS -> GCC Compiler
 Written according to C99 Standard
