@@ -1,4 +1,3 @@
-// stats.c
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include "stats.h"
@@ -83,3 +82,4 @@ double calc_median(int data[], int n) {
         return (data[(n / 2) - 1] + data[n / 2]) / 2.0;
     }
 }
+
